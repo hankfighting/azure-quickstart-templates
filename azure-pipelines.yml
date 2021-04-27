@@ -20,6 +20,5 @@ steps:
     location: 'Southeast Asia'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-storage-account-create/azuredeploy.json'
-    overrideParameters: '-projectName SmartDock'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate_01'
